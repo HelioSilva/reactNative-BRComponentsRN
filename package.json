@@ -1,11 +1,26 @@
 {
   "name": "brcomponentsrn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic Components React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelioSilva/reactNative-BRComponentsRN"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
   "author": "HelioSilva88",
   "license": "MIT"
 }
