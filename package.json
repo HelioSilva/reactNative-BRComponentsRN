@@ -1,0 +1,11 @@
+{
+  "name": "brcomponentsrn",
+  "version": "0.0.1",
+  "description": "Basic Components React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HelioSilva88",
+  "license": "MIT"
+}
