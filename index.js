@@ -1,4 +1,4 @@
-import BrContent from './src/BrContent';
+import BrContent from './src/BrContent/BrContent';
 import BrButton  from './src/BrButton' ;
 import TextField from './src/TextField' ;
 
