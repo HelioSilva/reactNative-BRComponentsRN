@@ -1,6 +1,6 @@
 {
   "name": "brcomponentsrn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Basic Components React Native",
   "main": "index.js",
   "scripts": {
