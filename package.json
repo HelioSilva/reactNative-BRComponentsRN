@@ -22,5 +22,8 @@
     "ui"
   ],
   "author": "HelioSilva88",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^4.4.1"
+  }
 }
